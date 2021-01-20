@@ -17,6 +17,8 @@ namespace DegerVeReferansTipler
             sayilar1 = sayilar2;
             sayilar2[0] = 999;
             //sayilar1 nedir?? 999
+
+
             //stack and heap
 
         }
